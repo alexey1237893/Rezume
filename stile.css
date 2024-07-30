@@ -3,28 +3,32 @@ body {
    background-size: cover;
 }
 
+.qq{
+   font-family:'Arial';
+}
+
 a {
-	font-family:'Arial';
-	color:gray;
+   font-family:'Arial';
+   color:gray;
 }
 a:hover{ 
-	color:red;
-	font-family:'Times New Roman'
+   color:red;
+   font-family:'Times New Roman'
    }
    
 #qa:hover{ 
-	color:red;
-	font-family:'Times New Roman'
+   color:red;
+   font-family:'Times New Roman'
    }
 
 h1{
-	font-family: 'Times New Roman';
+   font-family: 'Times New Roman';
    color:darkslategray;
 
 }
 
 p3{
-	font-family:'Arial';
+   font-family:'Arial';
 }
 
 #qa { 
@@ -42,9 +46,10 @@ p3{
         } 
 
  #qa:active {
- 	transform: scale(0.98); 
+   transform: scale(0.98); 
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 } 
+
 
 p{
   position: relative;
@@ -72,8 +77,7 @@ p{
 
 button {width: 150px; height: 20px;}
 
-
-
-
-
-
+.hp {
+    font-family:'Arial';
+   color:darkblue;
+}
