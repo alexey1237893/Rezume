@@ -78,3 +78,9 @@ button {width: 150px; height: 20px;}
     font-family:'Arial';
    color:darkblue;
 }
+
+@media screen (width < 575px){
+   div {
+      display: block;
+   }
+}
