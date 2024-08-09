@@ -4,7 +4,7 @@ body {
 }
 
 .qq{
-   font-family:'Arial';
+   font-family:'LUCIDA SANS UNICODE';
    color:darkslategray;
 }
 
@@ -13,17 +13,17 @@ a {
    color:gray;
 }
 a:hover{ 
-   color:red;
+   color:#800000;
    font-family:'Times New Roman'
    }
    
 #qa:hover{ 
-   color:red;
+   color:#800000;
    font-family:'Times New Roman'
    }
 
-h1{
-   font-family: 'Times New Roman';
+.h{
+   font-family: 'LUCIDA SANS UNICODE';
    color:darkslategray;
 }
 
@@ -72,10 +72,16 @@ h1{
   }
 }
 
-button {width: 150px; height: 20px;}
+button {width: 100px; height: 20px;
+        color:darkslategray;
+}
 
 .hp {
     font-family:'Arial';
-   color:darkblue;
+     color: #008000;
 }
 
+p {
+   font-family:'trebuchet ms';
+   color: #656363 ;
+}
