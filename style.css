@@ -14,7 +14,7 @@ a {
 }
 a:hover{ 
    color:#800000;
-   font-family:'Times New Roman'
+   font-family:'Times New Roman';
    }
    
 #qa:hover{ 
@@ -85,3 +85,4 @@ p {
    font-family:'trebuchet ms';
    color: #656363 ;
 }
+
